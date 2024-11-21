@@ -74,4 +74,7 @@ The **ChatBot-Project** addresses the need for efficient document-based question
 
 3. **Response Generation**:  
    - The chatbot, powered by GPT-4o, generates responses using the extracted context.  
-   - Strict rules ensure that responses rely solely on document data.  
+   - Strict rules ensure that responses rely solely on document data.
+
+⚠️ This version does not include the functionality for extracting images via EasyOCR.
+
